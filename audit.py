@@ -6,8 +6,7 @@ pwd = getpass.getpass('Enter .web Password: ')
 #host_list = raw_input('Please enter hostname/hostnames saperated by comma: ')
 #cmd_45 = 'show  version | sec Last reload reason'
 show_cmd = 'show  version | sec Last reload reason' 
-
-
+# more line in comments
 #if ',' in host_list:
 #    host_list= host_list.split(',')
 #else:
